@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RafaelSadekov
 - 👀 I’m interested in QA, coffee
-- 🌱 I’m currently learning QA, Pyhton
+- 🌱 I’m currently learning QA, Pyhton, C
 - 📫 How to reach me rafaelsadekov@gmail.com
 
 <!---
