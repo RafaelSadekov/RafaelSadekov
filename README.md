@@ -2,7 +2,7 @@
 
 - 🧩 Currently studying at **School 21**
 - 👀 Interested in **QA** and **coffee**
-- 🌱 Learning **QA**, **Python**, **C**, **SQL**, **Docker**
+- 🌱 Learning **QA**, **Python**, **SQL**, **Docker**
 - 📫 Reach me at: [rafaelsadekov@gmail.com](mailto:rafaelsadekov@gmail.com)
 
 # Projects in this repository:
